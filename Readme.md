@@ -1,4 +1,4 @@
-**Y**et **A**nother **F**ramework for "evolvable" web apps.
+Yet Another Framework for "evolvable" web apps.
 
 ## Nota bene!
 The framework is intended to be "library-independent", but **current implementation is built on top of AngularJS 1.3.**.  
