@@ -4,7 +4,7 @@
   "author": "Mr_Mig",
   "license": "MIT",
   "description": "Scsalable framework for structured and growable web apps.",
-  "main": "dist/yaf.js",
+  "main": "index.js",
   "scripts": {
     "test": "test",
     "build": "./node_modules/.bin/browserify index.js --standalone yaf | ./node_modules/.bin/derequire > ./dist/yaf.js"
@@ -18,7 +18,6 @@
     "url": "https://github.com/mr-mig/yaf/issues"
   },
   "dependencies": {
-    "angular-cjs": "git://github.com/mr-mig/angular-cjs#v1.0.0",
     "extend": "^2.0.0"
   },
   "devDependencies": {

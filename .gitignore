@@ -1,6 +1,2 @@
 .idea
 node_modules/*
-!node_modules/conventions
-!node_modules/interfaces
-!node_modules/utils
-!node_modules/implementations
