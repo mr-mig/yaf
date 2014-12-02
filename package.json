@@ -6,8 +6,7 @@
   "description": "Scsalable framework for structured and growable web apps.",
   "main": "index.js",
   "scripts": {
-    "test": "test",
-    "build": "./node_modules/.bin/browserify index.js --standalone yaf | ./node_modules/.bin/derequire > ./dist/yaf.js"
+    "test": "test"
   },
   "repository": {
     "type": "git",
@@ -19,9 +18,5 @@
   },
   "dependencies": {
     "extend": "^2.0.0"
-  },
-  "devDependencies": {
-    "browserify": "^6.3.3",
-    "derequire": "^1.2.0"
   }
 }
