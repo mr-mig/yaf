@@ -22,6 +22,7 @@
     "extend": "^2.0.0"
   },
   "devDependencies": {
-    "browserify": "^6.3.3"
+    "browserify": "^6.3.3",
+    "derequire": "^1.2.0"
   }
 }
