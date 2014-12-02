@@ -1,6 +1,7 @@
 'use strict';
 
 module.exports = {
+  conventions: require('./conventions'),
   element: require('./interfaces/structural/element'),
   composite: require('./interfaces/structural/composite'),
   screen: require('./interfaces/structural/screen'),
