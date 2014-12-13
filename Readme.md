@@ -11,7 +11,7 @@ The framework is intended to be "library-independent".
 
 This project contains only basic abstractions and conventions.
 
-You can find **usable implementation** of those abstractions built on top of AngularJS in [yaf-angular project](mr-mig/yaf-angular)
+You can find **usable implementation** of those abstractions built on top of AngularJS in [yaf-angular project](https://github.com/mr-mig/yaf-angular)
 
 The idea is based on [organicjs](https://github.com/organicjs/organicjs) abstractions.
 This is a playground for making those abstractions better by trying them on real use cases.
