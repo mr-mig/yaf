@@ -7,6 +7,8 @@ It helps answer 2 questions:
 2. "How do I make those components communicate in a sane way?"
 
 ## Nota bene!
+
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mr-mig/yaf?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 The framework is intended to be "library-independent".
 
 This project contains only basic abstractions and conventions.
