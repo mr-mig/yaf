@@ -1,5 +1,7 @@
 Yet Another Framework for "evolvable" web apps.
 
+[![bitHound Score](https://www.bithound.io/mr-mig/yaf/badges/score.svg?)](https://www.bithound.io/mr-mig/yaf)
+
 Provides structure and communication abstractions.
 It helps answer 2 questions:
 
