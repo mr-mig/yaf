@@ -22,4 +22,5 @@ This is a playground for making those abstractions better by trying them on real
 
 This is a Work-In-Progress implementation, **API will change often and unpredictably**.
 
-For more informatiom check out the project wiki.
+## Where are those docs? 
+For more informatiom check out the [project wiki](https://github.com/mr-mig/yaf/wiki/Reasons-Behind-The-Framework).
