@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/conventions/globalNames.js"],"names":[],"mappings":";;;;AAAA,kBAAY,CAAC;AACb,YAAM,CAAC,OAAO,GAAG;AACf,gBAAQ,EAAE,UAAU;AACpB,iBAAS,EAAE,KAAK;OACjB,CAAC","file":"src/conventions/globalNames.js","sourcesContent":["'use strict';\nmodule.exports = {\n  channels: 'channels',\n  framework: 'yaf'\n};"]}

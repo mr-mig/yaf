@@ -12,12 +12,18 @@
   "noarg": true,
   "nonew": true,
   "quotmark": "single",
-  "strict": true,
+  "strict": false,
   "maxdepth": 3,
   "maxstatements": 15,
   "maxlen": 100,
   "esnext": true,
   "funcscope": true,
   "globalstrict": true,
-	"node": true
+  "node" : true,
+  "jasmine" : true,
+  "browser" : true,
+  "globals" : {
+    "define" : false,
+    "expect" : false
+  }
 }
