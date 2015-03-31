@@ -1,6 +1,6 @@
 {
   "name": "yaf",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "author": "Mr_Mig",
   "license": "MIT",
   "description": "Scsalable framework for structured and growable web apps.",
@@ -12,7 +12,7 @@
     "js-files": "find . -name '*.js' ! -path './node_modules/*' ! -path './coverage/*' ! -path './dist/*' ! -path './jspm_packages'",
     "jshint": "node_modules/.bin/jshint `npm run -s js-files`",
     "fixmyjs": "node_modules/.bin/fixmyjs --legacy `npm run -s js-files`",
-    "coveralls" : "npm run test-ci && cat ./coverage/phantomjs/lcov.info | ./node_modules/coveralls/bin/coveralls.js && rm -rf ./coverage",
+    "coveralls": "npm run test-ci && cat ./coverage/phantomjs/lcov.info | ./node_modules/coveralls/bin/coveralls.js && rm -rf ./coverage",
     "build-commonjs": "./node_modules/.bin/babel src --out-dir dist/commonjs --source-maps --modules common",
     "build-amd": "./node_modules/.bin/babel src --out-dir dist/amd --source-maps --modules amd",
     "build-system": "./node_modules/.bin/babel src --out-dir dist/systemjs --source-maps --modules system",
